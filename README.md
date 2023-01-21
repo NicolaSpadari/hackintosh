@@ -1,0 +1,2 @@
+# hackintosh
+Personal Hackintosh configuration
