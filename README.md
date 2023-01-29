@@ -15,7 +15,7 @@
 
 - **Motherboard**: Asus Z390-F
   - Bluetooth is handled by an USB adapter
-- **CPU**: Intel Core i7-9700K**
+- **CPU**: Intel Core i7-9700K
 - **GPU**: Nvidia GeForce GTX 1080 Ti
 - **RAM**: Corsair 32GB DDR4 Vengeance LPX
 - **Storage**:
