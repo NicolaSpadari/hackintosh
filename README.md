@@ -26,7 +26,7 @@
 
 ## Configuration
 
-- Everyone's system will have different requirements, `config.plist` will most likey be different
+- Everyone's system will have different requirements, `config.plist` will most likely be different
 - Values that are `{{REPLACE_ME}}` or `00000000 0000` must be replaced with actual values from new SMBios.
 
 ## Known issues
